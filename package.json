@@ -1,0 +1,24 @@
+{
+  "name": "web_servers",
+  "version": "1.0.0",
+  "description": "This project contains two implementations of a basic HTTP server, one using Bun and the other using Node.js.",
+  "main": "node-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARYANTYAGI1/Web-Server-Node-Bun.git"
+  },
+  "keywords": [
+    "node-server",
+    "bun-server",
+    "web-servers"
+  ],
+  "author": "Aryan Tyagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARYANTYAGI1/Web-Server-Node-Bun/issues"
+  },
+  "homepage": "https://github.com/ARYANTYAGI1/Web-Server-Node-Bun#readme"
+}
